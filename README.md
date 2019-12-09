@@ -1,2 +1,2 @@
-# miniDogVoice
-一个收集宠物声音的社区
+# cx-recorder
+微信小程序-录音机
